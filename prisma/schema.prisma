@@ -1,0 +1,69 @@
+datasource db {
+    provider = "mongodb"
+    url      = "mongodb+srv://Piyush:p05KcnCW76AEC5n0@cluster0.p0vbf.mongodb.net/appointment"
+}
+
+generator client {
+    provider = "prisma-client-js"
+
+    // Learn more about Preview features: 
+    // https://www.prisma.io/docs/concepts/components/preview-features/client-preview-features
+    previewFeatures = ["fieldReference", "clientExtensions"]
+}
+
+model User {
+    id        String   @id @default(auto()) @map("_id") @db.ObjectId
+    email     String   @unique
+    phone     String
+    name      String?
+    role      Role     @default(LABOUR)
+    createdAt DateTime @default(now())
+
+    //   posts   Post[]
+    //   profile Profile?
+}
+
+model statesList {
+    id          String @id @default(auto()) @map("_id") @db.ObjectId
+    name_en     String
+    name_hi     String
+    code        String
+    isoCode     String
+    countryCode String
+    latitude    String @default("null")
+    longitude   String @default("null")
+}
+
+model laborRatesStateWise {
+    id             String @id @default(auto()) @map("_id") @db.ObjectId
+    stateName      String
+    dailyRates     String
+    monthlyRates   String
+    laborType      String
+    zone           String
+    governmentType String
+}
+
+model labourType {
+    id         String   @id @default(auto()) @map("_id") @db.ObjectId
+    labourName String   @unique
+    skill      skills[]
+}
+
+model status {
+    id   String @id @default(auto()) @map("_id") @db.ObjectId
+    name String @unique
+}
+
+model skills {
+    id         String     @id @default(auto()) @map("_id") @db.ObjectId
+    skill      String
+    labourType labourType @relation(fields: [labour], references: [id])
+    labour     String     @db.ObjectId
+}
+
+enum Role {
+    LABOUR
+    PROVIDER
+    ADMIN
+}

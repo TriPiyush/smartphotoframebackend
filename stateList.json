@@ -1,0 +1,390 @@
+[
+    {
+        "id": "6537dff33eeb50bed9c8cb5a",
+        "name": {
+            "english": "Andaman and Nicobar Islands",
+            "hindi": "अंडमान और निकोबार द्वीपसमूह"
+        },
+        "code": "AN",
+        "isoCode": "AN",
+        "countryCode": "IN",
+        "latitude": "11.74008670",
+        "longitude": "92.65864010"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb5b",
+        "name": {
+            "english": "Andhra Pradesh",
+            "hindi": "आंध्र प्रदेश"
+        },
+        "code": "AP",
+        "isoCode": "AP",
+        "countryCode": "IN",
+        "latitude": "15.91289980",
+        "longitude": "79.73998750"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb5c",
+        "name": {
+            "english": "Arunachal Pradesh",
+            "hindi": "अरुणाचल प्रदेश"
+        },
+        "code": "AR",
+        "isoCode": "AR",
+        "countryCode": "IN",
+        "latitude": "28.21799940",
+        "longitude": "94.72775280"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb5d",
+        "name": {
+            "english": "Assam",
+            "hindi": "असम"
+        },
+        "code": "AS",
+        "isoCode": "AS",
+        "countryCode": "IN",
+        "latitude": "26.20060430",
+        "longitude": "92.93757390"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb5e",
+        "name": {
+            "english": "Bihar",
+            "hindi": "बिहार"
+        },
+        "code": "BR",
+        "isoCode": "BR",
+        "countryCode": "IN",
+        "latitude": "25.09607420",
+        "longitude": "85.31311940"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb5f",
+        "name": {
+            "english": "Chandigarh",
+            "hindi": "चंडीगढ़"
+        },
+        "code": "CH",
+        "isoCode": "CH",
+        "countryCode": "IN",
+        "latitude": "30.73331480",
+        "longitude": "76.77941790"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb60",
+        "name": {
+            "english": "Chhattisgarh",
+            "hindi": "छत्तीसगढ़"
+        },
+        "code": "CT",
+        "isoCode": "CT",
+        "countryCode": "IN",
+        "latitude": "21.27865670",
+        "longitude": "81.86614420"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb61",
+        "name": {
+            "english": "Dadra and Nagar Haveli and Daman and Diu",
+            "hindi": "दादरा और नगर हवेली और दमन और दीव"
+        },
+        "code": "DH",
+        "isoCode": "DH",
+        "countryCode": "IN",
+        "latitude": "20.39737360",
+        "longitude": "72.83279910"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb62",
+        "name": {
+            "english": "Delhi",
+            "hindi": "दिल्ली"
+        },
+        "code": "DL",
+        "isoCode": "DL",
+        "countryCode": "IN",
+        "latitude": "28.70405920",
+        "longitude": "77.10249020"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb63",
+        "name": {
+            "english": "Goa",
+            "hindi": "गोवा"
+        },
+        "code": "GA",
+        "isoCode": "GA",
+        "countryCode": "IN",
+        "latitude": "15.29932650",
+        "longitude": "74.12399600"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb64",
+        "name": {
+            "english": "Gujarat",
+            "hindi": "गुजरात"
+        },
+        "code": "GJ",
+        "isoCode": "GJ",
+        "countryCode": "IN",
+        "latitude": "22.25865200",
+        "longitude": "71.19238050"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb65",
+        "name": {
+            "english": "Haryana",
+            "hindi": "हरियाणा"
+        },
+        "code": "HR",
+        "isoCode": "HR",
+        "countryCode": "IN",
+        "latitude": "29.05877570",
+        "longitude": "76.08560100"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb66",
+        "name": {
+            "english": "Himachal Pradesh",
+            "hindi": "हिमाचल प्रदेश"
+        },
+        "code": "HP",
+        "isoCode": "HP",
+        "countryCode": "IN",
+        "latitude": "31.10482940",
+        "longitude": "77.17339010"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb67",
+        "name": {
+            "english": "Jammu and Kashmir",
+            "hindi": "जम्मू और कश्मीर"
+        },
+        "code": "JK",
+        "isoCode": "JK",
+        "countryCode": "IN",
+        "latitude": "33.27783900",
+        "longitude": "75.34121790"
+    },
+	    {
+        "id": "6537dff33eeb50bed9c8cb68",
+        "name_en": "Jharkhand",
+        "name_hi": "झारखंड",
+        "code": "JH",
+        "isoCode": "JH",
+        "countryCode": "IN",
+        "latitude": "23.61018080",
+        "longitude": "85.27993540"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb69",
+        "name_en": "Karnataka",
+        "name_hi": "कर्नाटक",
+        "code": "KA",
+        "isoCode": "KA",
+        "countryCode": "IN",
+        "latitude": "15.31727750",
+        "longitude": "75.71388840"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb6a",
+        "name_en": "Kerala",
+        "name_hi": "केरल",
+        "code": "KL",
+        "isoCode": "KL",
+        "countryCode": "IN",
+        "latitude": "10.85051590",
+        "longitude": "76.27108330"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb6b",
+        "name_en": "Ladakh",
+        "name_hi": "लद्दाख़",
+        "code": "LA",
+        "isoCode": "LA",
+        "countryCode": "IN",
+        "latitude": "34.22684750",
+        "longitude": "77.56194190"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb6c",
+        "name_en": "Lakshadweep",
+        "name_hi": "लक्षद्वीप",
+        "code": "LD",
+        "isoCode": "LD",
+        "countryCode": "IN",
+        "latitude": "10.32802650",
+        "longitude": "72.78463360"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb6d",
+        "name_en": "Madhya Pradesh",
+        "name_hi": "मध्य प्रदेश",
+        "code": "MP",
+        "isoCode": "MP",
+        "countryCode": "IN",
+        "latitude": "22.97342290",
+        "longitude": "78.65689420"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb6e",
+        "name_en": "Maharashtra",
+        "name_hi": "महाराष्ट्र",
+        "code": "MH",
+        "isoCode": "MH",
+        "countryCode": "IN",
+        "latitude": "19.75147980",
+        "longitude": "75.71388840"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb6f",
+        "name_en": "Manipur",
+        "name_hi": "मणिपुर",
+        "code": "MN",
+        "isoCode": "MN",
+        "countryCode": "IN",
+        "latitude": "24.66371730",
+        "longitude": "93.90626880"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb70",
+        "name_en": "Meghalaya",
+        "name_hi": "मेघालय",
+        "code": "ML",
+        "isoCode": "ML",
+        "countryCode": "IN",
+        "latitude": "25.46703080",
+        "longitude": "91.36621600"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb71",
+        "name_en": "Mizoram",
+        "name_hi": "मिजोरम",
+        "code": "MZ",
+        "isoCode": "MZ",
+        "countryCode": "IN",
+        "latitude": "23.16454300",
+        "longitude": "92.93757390"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb72",
+        "name_en": "Nagaland",
+        "name_hi": "नागालैंड",
+        "code": "NL",
+        "isoCode": "NL",
+        "countryCode": "IN",
+        "latitude": "26.15843540",
+        "longitude": "94.56244260"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb73",
+        "name_en": "Odisha",
+        "name_hi": "उड़ीसा",
+        "code": "OR",
+        "isoCode": "OR",
+        "countryCode": "IN",
+        "latitude": "20.95166580",
+        "longitude": "85.09852360"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb74",
+        "name_en": "Puducherry",
+        "name_hi": "पुदुचेरी",
+        "code": "PY",
+        "isoCode": "PY",
+        "countryCode": "IN",
+        "latitude": "11.94159150",
+        "longitude": "79.80831330"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb75",
+        "name_en": "Punjab",
+        "name_hi": "पंजाब",
+        "code": "PB",
+        "isoCode": "PB",
+        "countryCode": "IN",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb76",
+        "name_en": "Rajasthan",
+        "name_hi": "राजस्थान",
+        "code": "RJ",
+        "isoCode": "RJ",
+        "countryCode": "IN",
+        "latitude": "27.02380360",
+        "longitude": "74.21793260"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb77",
+        "name_en": "Sikkim",
+        "name_hi": "सिक्किम",
+        "code": "SK",
+        "isoCode": "SK",
+        "countryCode": "IN",
+        "latitude": "27.53297180",
+        "longitude": "88.51221780"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb78",
+        "name_en": "Tamil Nadu",
+        "name_hi": "तमिलनाडु",
+        "code": "TN",
+        "isoCode": "TN",
+        "countryCode": "IN",
+        "latitude": "11.12712250",
+        "longitude": "78.65689420"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb79",
+        "name_en": "Telangana",
+        "name_hi": "तेलंगाना",
+        "code": "TG",
+        "isoCode": "TG",
+        "countryCode": "IN",
+        "latitude": "18.11243720",
+        "longitude": "79.01929970"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb7a",
+        "name_en": "Tripura",
+        "name_hi": "त्रिपुरा",
+        "code": "TR",
+        "isoCode": "TR",
+        "countryCode": "IN",
+        "latitude": "23.94084820",
+        "longitude": "91.98815270"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb7b",
+        "name_en": "Uttar Pradesh",
+        "name_hi": "उत्तर प्रदेश",
+        "code": "UP",
+        "isoCode": "UP",
+        "countryCode": "IN",
+        "latitude": "26.84670880",
+        "longitude": "80.94615920"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb7c",
+        "name_en": "Uttarakhand",
+        "name_hi": "उत्तराखण्ड",
+        "code": "UT",
+        "isoCode": "UT",
+        "countryCode": "IN",
+        "latitude": "30.06675300",
+        "longitude": "79.01929970"
+    },
+    {
+        "id": "6537dff33eeb50bed9c8cb7d",
+        "name_en": "West Bengal",
+        "name_hi": "पश्चिम बंगाल",
+        "code": "WB",
+        "isoCode": "WB",
+        "countryCode": "IN",
+        "latitude": "22.98675690",
+        "longitude": "87.85497550"
+    }
+]

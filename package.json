@@ -1,0 +1,28 @@
+{
+  "name": "bookmysahayakbackendapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TriPiyush/BookMySahayakBackendApp.git"
+  },
+  "author": "Piyush",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.5.0",
+    "cors": "^2.8.5",
+    "countries-state-list": "^1.1.0",
+    "country-list": "^2.3.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "prisma-pagination": "^0.2.3"
+  },
+  "devDependencies": {
+    "prisma": "^5.5.0"
+  }
+}
