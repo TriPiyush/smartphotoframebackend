@@ -26,12 +26,12 @@ const initializeDB = async () => {
     if (statesList._count === 0) {
         // create province
         const states = state.getStatesOfCountry('IN').map((each => ({ ...each, code: each.isoCode, latitude: each.latitude ? each.latitude : "", longitude: each.longitude ? each.longitude : "" })));
-        const createResult = await prisma.statesList.createMany({
-            data: stateList
-        });
-        if (createResult.count > 0) {
-            console.log(constants.STATES_ADDED)
-        }
+        // const createResult = await prisma.statesList.createMany({
+        //     data: states
+        // });
+        // if (createResult.count > 0) {
+        //     console.log(constants.STATES_ADDED)
+        // }
     }
     
 
